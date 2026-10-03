@@ -1,6 +1,6 @@
 # AWS DevOps Agent — Claude Plugin using the AWS MCP Server
 
-> ## ⚠️ This repository is deprecated
+> ## This repository is deprecated
 >
 > This sample is no longer maintained. For connecting to AWS DevOps Agent going forward, use one of the official, supported paths instead:
 >
